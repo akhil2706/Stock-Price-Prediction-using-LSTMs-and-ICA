@@ -1,4 +1,4 @@
-# Capstone_project
+# Capstone Project
 Project Overview
 
 Modelling of stock markets have made major advancements since the inception of machine learning. Machine learning models have capabilities to consider large datasets, and analyse and record relationships between current and future prices. Through the use of current technical and charting methods used, we can predict prices with moderate success but machine learning models are preferred as they perform better and can base their prediction methodologies over training data acquired over a large time period. Hence, we may be even be able to spot infrequent trends which have occurred in the past. 
